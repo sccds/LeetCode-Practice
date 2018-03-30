@@ -39,7 +39,7 @@ Target = 28
 
 
 #### Solution
-```
+```python
 class Solution:
     def findTarget(self, root, k):
         """
