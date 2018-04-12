@@ -19,7 +19,8 @@ Given the following tree `[3,9,20,null,null,15,7]`:
    / \
   9  20
     /  \
-   15   7```
+   15   7
+```
 
 Return true.  
 
@@ -41,7 +42,6 @@ Return false.
 
 #### 思路
 左子树balanced, 右子树balanced, 左右子树深度相差不超过1
-
 
 #### Solution
 ```python
